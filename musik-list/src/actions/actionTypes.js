@@ -1,0 +1,3 @@
+export const GET_ALL_MUSICS = 'GET_ALL_MUSICS';
+export const CREATE_NEW_MUSIC = 'CREATE_NEW_MUSIC';
+export const REMOVE_MUSIC = 'REMOVE_MUSIC';

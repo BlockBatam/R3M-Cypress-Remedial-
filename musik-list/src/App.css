@@ -1,0 +1,15 @@
+.container {
+  width: 500px;
+  border-radius: 8px;
+  margin: 96px auto;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 25px;
+}
+
+.list-group {
+  background-color: white;
+  text-align: left;
+  padding: 2px;
+  font-size: 20px;
+}
